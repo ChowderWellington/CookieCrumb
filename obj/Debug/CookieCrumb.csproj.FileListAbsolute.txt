@@ -1,0 +1,10 @@
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\bin\Debug\CookieCrumb.exe.config
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\bin\Debug\CookieCrumb.exe
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\bin\Debug\CookieCrumb.pdb
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\obj\Debug\CookieCrumb.csproj.AssemblyReference.cache
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\obj\Debug\CookieCrumb.Form1.resources
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\obj\Debug\CookieCrumb.Properties.Resources.resources
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\obj\Debug\CookieCrumb.csproj.GenerateResource.cache
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\obj\Debug\CookieCrumb.csproj.CoreCompileInputs.cache
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\obj\Debug\CookieCrumb.exe
+C:\Users\vanhu\Music\cookiecrumb\CookieCrumb\obj\Debug\CookieCrumb.pdb
